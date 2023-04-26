@@ -2,6 +2,8 @@
 Coding assignments from Coursera Deep Learning Specialization.
 🤖🦾💻
 
+My custom projects can be found at my other repo here: https://github.com/cloudui/pilotML
+
 ## Course 1: Neural Networks and Deep Learning
 An introduction to Perceptrons, Multi-Layer Perceptrons, and Deep Learning with batch gradient descent without optimization methods
 
